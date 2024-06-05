@@ -22,7 +22,7 @@ Each session includes a hands-on component where participants can enhance their 
 Additionally, participants will have the opportunity to work in small groups, fostering a collaborative learning environment that encourages discussion and knowledge exchange.
 Overall, these courses are designed not only to educate but also to inspire students to integrate AI into their future research, equipping them with both theoretical knowledge and practical expertise.
 
-The tutorials will be held hybrid. Microsoft Teams link and Conference room will be announced for each course.
+The courses will be held hybrid. Microsoft Teams link and Conference room will be announced for each course.
 
 
 <a href="#top"> &#10558; Back to top</a>
